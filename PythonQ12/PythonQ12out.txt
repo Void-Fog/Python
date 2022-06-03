@@ -1,0 +1,37 @@
+
+1) Create file para.txt
+2) Move lines i to ifile.txt
+3) Copy lines with we to wefile.txt
+4) Exit
+Enter your choice: 1
+Enter line 1: This is line 1
+Continue? y/n: y
+Enter line 2: This is line 2
+Continue? y/n: y
+Enter line 3: Eggs Spam HAM
+Continue? y/n: n
+
+1) Create file para.txt
+2) Move lines i to ifile.txt
+3) Copy lines with we to wefile.txt
+4) Exit
+Enter your choice: 2
+Now reading ifile.txt
+
+Now reading para.txt
+
+
+1) Create file para.txt
+2) Move lines i to ifile.txt
+3) Copy lines with we to wefile.txt
+4) Exit
+Enter your choice: 3
+Now reading wefile.txt
+
+
+1) Create file para.txt
+2) Move lines i to ifile.txt
+3) Copy lines with we to wefile.txt
+4) Exit
+Enter your choice: 4
+Quitting ... 

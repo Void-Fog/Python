@@ -1,0 +1,58 @@
+
+1) Create a file 'text'
+2) Count no of digits, char, lines and words in 'text'
+3) Blank spaces of 'text' replace by '#' in a new file hash
+4) Show file hash
+5) Exit
+ 
+Enter your choice:1
+Enter line: This is line 1
+Enter more lines Y/N: y
+Enter line: This is line 2
+Enter more lines Y/N: y
+Enter line: Eggs SPAM hAM
+Enter more lines Y/N: n
+
+1) Create a file 'text'
+2) Count no of digits, char, lines and words in 'text'
+3) Blank spaces of 'text' replace by '#' in a new file hash
+4) Show file hash
+5) Exit
+ 
+Enter your choice:2
+No of Digits : 2
+No of Characters : 43
+No of Words : 11
+No of Lines : 3
+
+1) Create a file 'text'
+2) Count no of digits, char, lines and words in 'text'
+3) Blank spaces of 'text' replace by '#' in a new file hash
+4) Show file hash
+5) Exit
+ 
+Enter your choice:3
+
+This#is#line#1
+This#is#line#2
+Eggs#SPAM#hAM
+
+1) Create a file 'text'
+2) Count no of digits, char, lines and words in 'text'
+3) Blank spaces of 'text' replace by '#' in a new file hash
+4) Show file hash
+5) Exit
+ 
+Enter your choice:4
+This#is#line#1
+This#is#line#2
+Eggs#SPAM#hAM
+
+1) Create a file 'text'
+2) Count no of digits, char, lines and words in 'text'
+3) Blank spaces of 'text' replace by '#' in a new file hash
+4) Show file hash
+5) Exit
+ 
+Enter your choice:5
+Quiting...

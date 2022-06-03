@@ -1,0 +1,34 @@
+
+1) Create a text file
+2) Read a random line from a file
+3) Find the most commonly occurring word in a file
+4) Exit
+Enter your choice: 1
+Enter line 1: This is line 1
+Continue? y/n: y
+Enter line 2: This is line 2
+Continue? y/n: y
+Enter line 3: Eggs Spam HAM
+Continue? y/n: n
+
+1) Create a text file
+2) Read a random line from a file
+3) Find the most commonly occurring word in a file
+4) Exit
+Enter your choice: 2
+Eggs Spam HAM
+
+
+1) Create a text file
+2) Read a random line from a file
+3) Find the most commonly occurring word in a file
+4) Exit
+Enter your choice: 3
+the list of word ['This', 'is', 'line'] has/have freq 2
+
+1) Create a text file
+2) Read a random line from a file
+3) Find the most commonly occurring word in a file
+4) Exit
+Enter your choice: 4
+Quitting ... 

@@ -1,0 +1,52 @@
+
+1) Append text to a text file  
+2) Display the number of vows, cons, upper, lower chars in the file
+3) Convert the data into upper and store the result in another file
+4) Display converted file
+5) Exit
+ 
+Enter your choice:1
+Enter line 1: This is line 1
+Continue? y/n: y
+Enter line 2: This is line 2
+Continue? y/n: y
+Enter line 3: Eggs Spam HAM
+Continue? y/n: n
+
+1) Append text to a text file  
+2) Display the number of vows, cons, upper, lower chars in the file
+3) Convert the data into upper and store the result in another file
+4) Display converted file
+5) Exit
+ 
+Enter your choice:2
+{'vowels': 11, 'consonants': 20, 'uppercase': 7, 'lowercase': 24}
+
+1) Append text to a text file  
+2) Display the number of vows, cons, upper, lower chars in the file
+3) Convert the data into upper and store the result in another file
+4) Display converted file
+5) Exit
+ 
+Enter your choice:3
+
+1) Append text to a text file  
+2) Display the number of vows, cons, upper, lower chars in the file
+3) Convert the data into upper and store the result in another file
+4) Display converted file
+5) Exit
+ 
+Enter your choice:4
+THIS IS LINE 1
+THIS IS LINE 2
+EGGS SPAM HAM
+
+
+1) Append text to a text file  
+2) Display the number of vows, cons, upper, lower chars in the file
+3) Convert the data into upper and store the result in another file
+4) Display converted file
+5) Exit
+ 
+Enter your choice:5
+Quiting...

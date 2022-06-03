@@ -1,0 +1,11 @@
+1
+This is line 1
+y
+Eggs spam HAM
+y
+THIS is not lINE 3
+n
+2
+3
+4
+5

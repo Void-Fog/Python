@@ -1,0 +1,55 @@
+
+1) Create a file 'text'
+2) Read lines of file 'text'
+3) Create and view new file 'vowel' with words starting with vowels
+4) Display Uppercase words in file 'text'
+5) Exit
+ 
+Enter your choice:1
+Enter line: This is line 1
+Enter more lines Y/N: y
+Enter line: Eggs spam HAM
+Enter more lines Y/N: y
+Enter line: THIS is not lINE 3
+Enter more lines Y/N: n
+
+1) Create a file 'text'
+2) Read lines of file 'text'
+3) Create and view new file 'vowel' with words starting with vowels
+4) Display Uppercase words in file 'text'
+5) Exit
+ 
+Enter your choice:2
+This is line 1
+Eggs spam HAM
+THIS is not lINE 3
+
+1) Create a file 'text'
+2) Read lines of file 'text'
+3) Create and view new file 'vowel' with words starting with vowels
+4) Display Uppercase words in file 'text'
+5) Exit
+ 
+Enter your choice:3
+is
+Eggs
+is
+
+1) Create a file 'text'
+2) Read lines of file 'text'
+3) Create and view new file 'vowel' with words starting with vowels
+4) Display Uppercase words in file 'text'
+5) Exit
+ 
+Enter your choice:4
+HAM
+THIS
+
+1) Create a file 'text'
+2) Read lines of file 'text'
+3) Create and view new file 'vowel' with words starting with vowels
+4) Display Uppercase words in file 'text'
+5) Exit
+ 
+Enter your choice:5
+Quiting...

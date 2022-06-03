@@ -1,0 +1,86 @@
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 1
+Enter no: 1
+1
+Added!!
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 1
+Enter no: 9
+9
+Added!!
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 2
+Front >>> 1
+Rear  >>> 9
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 4
+1 is the front item
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 3
+1 is Deleted
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 3
+9 is Deleted
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 3
+Underflow Error
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 2
+Empty Queue
+
+Menu
+1)Enque
+2)Display
+3)Deque
+4)Peek
+5)Exit
+Enter your choice: 5
+Quitting
